@@ -1,4 +1,6 @@
-### Hi there 👋
+# Seja Bem-Vindo
+
+Me chamo Lucas, tenho 23 anos, atualmente cursando Sistemas de Informação na UFMS de Coxim.
 
 <!--
 **LucasGarciaRodrigues/LucasGarciaRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
