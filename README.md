@@ -1,8 +1,7 @@
 # Sobre mim
 
-Olá, meu nome é Lucas, tenho 24 anos. Seja muito bem-vindo(a) ao meu perfil.
-
-Sou um programador _full stack_ recém formado em Sistemas de Informação. No momento, estou focado em conseguir uma oportunidade para dar início a minha carreira.
+Seja muito bem-vindo(a) ao meu perfil, meu nome é Lucas, tenho 24 anos e sou um programador _full stack_ recém formado em Sistemas de Informação pela Universidade Federal do Mato Grosso do Sul.
+No momento, estou focado em conseguir uma oportunidade para dar início a minha carreira.
 
 ## Minha stack atual
 
